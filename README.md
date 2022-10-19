@@ -1,2 +1,4 @@
 # hello-world
-repositório criado para o treinamento github
+repositório criado para o nosso treinamento sobre o github
+# Albert Eije
+Estamos estudando sobre o github a partir do tutorial disponibilizado por eles.
